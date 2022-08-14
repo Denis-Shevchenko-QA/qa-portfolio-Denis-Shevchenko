@@ -1,0 +1,13 @@
+{
+  "Bug_id":"BQA36-2260",
+  "Priority":"Highest",
+  "Summary":"Koel | Most played category | User can not listening to desired song",
+  "Environment":"Iphone 11 ProMax/ Version 15.5|Safari 15.5",
+  "Steps to reproduce":
+  {
+    "1":"Navigate to the /home page",
+    "2":"Double click on any desired song from the most played category"
+  },
+  "Expected result":"User can listen to the desired song from the most played category",
+  "Actual result":"User can not listen to the desired song from the most played category"
+}
