@@ -1,0 +1,12 @@
+{
+  "TestCase_id":"BQA36-286",
+  "Title":"Humans | Creating post",
+  "Description":"The user is on https://humans.net/profile/",
+  "Steps":
+  {
+    "1":"The user clicks on the button 'Create post'",
+    "2":"AThe user enters post data 'car wash'",
+    "3":"The user clicks the button 'Save'",
+  },
+  "Expected result":"The post was successfully published on the https://humans.net/"
+}
